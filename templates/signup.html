@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Sign up - PolicyNav</title>
+<style>
+  body { font-family: 'Segoe UI', sans-serif; background:#5594b3; color:#fff; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; }
+  .card{ background: #fff; color:#111; padding:28px; border-radius:10px; width:360px; box-shadow:0 6px 20px rgba(0,0,0,0.15);}
+  input{ width:100%; padding:10px; margin:10px 0; border-radius:6px; border:1px solid #ddd; }
+  button{ width:100%; padding:10px; background:#2563eb; color:#fff; border:none; border-radius:6px; font-weight:600; cursor:pointer;}
+  .msg{ color:#d33; text-align:center; margin-bottom:8px;}
+</style>
+</head>
+<body>
+  <div class="card">
+    <h2 style="margin:0 0 10px 0;">📝 Create account</h2>
+    {% if msg %}<div class="msg">{{ msg }}</div>{% endif %}
+    <form method="post" action="/signup">
+      <input name="username" placeholder="Choose username" required />
+      <input type="password" name="password" placeholder="Choose password" required/>
+      <button type="submit">Sign up</button>
+    </form>
+    <p style="margin-top:12px;">Already have account? <a href="/login">Login</a></p>
+  </div>
+</body>
+</html>
