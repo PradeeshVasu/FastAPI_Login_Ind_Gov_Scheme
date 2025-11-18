@@ -5,7 +5,7 @@
 <p align="center">
   <b>AI-powered FastAPI application to search and analyze Indian Government schemes using NLP</b>
   <br>
-  <sub>Built with ❤️ by <a href="https://github.com/PradeeshVasu">Pradeesh Vasu</a></sub>
+  <sub>Built by <a href="https://github.com/PradeeshVasu">Pradeesh Vasu</a></sub>
 </p>
 
 ---
