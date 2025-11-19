@@ -80,6 +80,10 @@ Indian_Government_Schemes_NLP/
 2. The login credentials allow users in after entering their "Name" and "Password"
 3. The details of the users are stored in MySQL database 
 
+<img width="1918" height="1086" alt="Screenshot 2025-11-19 172126" src="https://github.com/user-attachments/assets/603e7915-d9e1-4c51-a7ec-e24f9c7893db" />
+
+<img width="1919" height="1082" alt="Screenshot 2025-11-19 172146" src="https://github.com/user-attachments/assets/d3b34266-7f08-423b-ab3f-7688643bc5f7" />
+
 ### Install and Open MYSQL
 
 1. Enter user password in the MySQL server                                          
@@ -123,6 +127,11 @@ uvicorn app:app --reload
 Visit 👉 [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
+
+<img width="1911" height="1088" alt="Screenshot 2025-11-19 172209" src="https://github.com/user-attachments/assets/023fa3dd-4b3d-4451-860b-ec9a579cd5c1" />
+
+<img width="1898" height="1083" alt="Screenshot 2025-11-19 172228" src="https://github.com/user-attachments/assets/17b2272e-0608-4a06-adc6-f31821d09c89" />
+
 
 ## 🧠 How It Works
 
