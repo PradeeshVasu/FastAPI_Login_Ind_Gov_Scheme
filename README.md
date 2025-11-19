@@ -86,10 +86,14 @@ Indian_Government_Schemes_NLP/
 
 ### Install and Open MYSQL
 
-1. Enter user password in the MySQL server                                          
-2. Create a sql database                                                                                                           
+1. Enter user password in the MySQL server.                                         
+2. Create a sql database.                                                                                                                   
 3. Place the password, sql database name in your app.py code                                                                                        
-4. After this run your FastAPI server using hte steps mentioned below                                                                               
+4. After this run your FastAPI server using hte steps mentioned below
+
+<img width="1919" height="1139" alt="Screenshot 2025-11-19 172614" src="https://github.com/user-attachments/assets/ed732666-6759-474b-8f04-8c5693ee4698" />
+
+<img width="1149" height="474" alt="Screenshot 2025-11-19 172703" src="https://github.com/user-attachments/assets/7979fd2c-5865-455f-837a-dddf5bb3a8bc" />
 
 ---
 
