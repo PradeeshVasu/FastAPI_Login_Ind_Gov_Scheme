@@ -211,6 +211,6 @@ textwrap3
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/Status-Production%20Ready-success" alt="Status">
-  <img src="https://img.shields.io/github/stars/PradeeshVasu/Indian_Government_Schemes_NLP?style=social" alt="Stars">
+
 </p>
 
