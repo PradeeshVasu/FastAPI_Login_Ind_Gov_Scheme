@@ -76,8 +76,9 @@ Indian_Government_Schemes_NLP/
 ````
 ### Create Login credentials
 
-1.The Login credentials are created using using html codes, the4 login credentials allow users in after entering their "Name" and "Password"
-2.The details of the users are stored in MySQL database 
+1.The Login credentials are created using using html codes
+2.The login credentials allow users in after entering their "Name" and "Password"
+3.The details of the users are stored in MySQL database 
 
 ### Install and Open MYSQL
 
