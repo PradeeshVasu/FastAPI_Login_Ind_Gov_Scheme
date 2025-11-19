@@ -61,7 +61,9 @@ Indian_Government_Schemes_NLP/
 │
 ├── templates/
 │   └── index.html                # User interface template
-│
+│   └── login.html
+│   └── results.html
+│   └── signup.html
 ├── static/                       # CSS, JS, or images
 │
 ├── train/                        # Training data files
